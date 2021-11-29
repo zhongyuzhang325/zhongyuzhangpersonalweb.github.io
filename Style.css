@@ -1,0 +1,84 @@
+﻿body {
+    background-color: lightskyblue;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    font-size: 350%;
+}
+
+
+
+.NavBar {
+    background-color: red;
+    float: left;
+    height: 410px;
+    width: 10%;
+}
+
+    .NavBar:hover {
+        background-color: orange;
+        transform: scale(1.2);
+    }
+
+li {
+    padding: 0px;
+    margin: 0px;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    text-align: left;
+    padding: 10px;
+    margin: 10px;
+}
+
+#Box {
+    float: left;
+    background-color: lightblue;
+    width: 20%;
+    border: 5px solid black;
+    margin: 15px;
+    padding: 15px;
+}
+
+#about {
+    float: left;
+    background-color: lightblue;
+    width: 20%;
+    border: 5px solid black;
+    margin: 15px;
+    padding: 15px;
+}
+
+h5 {
+    text-align: center;
+    font-size: 150%;
+}
+
+#project {
+    float: left;
+    background-color: lightblue;
+    width: 20%;
+    border: 5px solid black;
+    margin: 15px;
+    padding: 15px;
+}
+h6 {
+    text-align: left;
+    font-size: 130%;
+}
+
+#skill {
+    float: left;
+    background-color: lightblue;
+    width: 20%;
+    border: 5px solid black;
+    margin: 15px;
+    padding: 15px;
+}
+
